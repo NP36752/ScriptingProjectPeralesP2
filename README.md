@@ -1,2 +1,2 @@
-# ScriptingProjectPeralesP2
-creating a repo for my scription project for school
+# you dont really need to be here if you dont go to my school
+its for my teacher 
