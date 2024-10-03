@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BehaviorComponentScript : MonoBehaviour
-{
+{   
     // Start is called before the first frame update
     void Start()
     {
@@ -34,4 +34,4 @@ public class BehaviorComponentScript : MonoBehaviour
             GetComponent<Renderer>().material.color = Color.cyan;
         }
     }
-}r
+}
