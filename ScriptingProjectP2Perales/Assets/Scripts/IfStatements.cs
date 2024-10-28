@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class IfStatements : MonoBehaviour
 {
     float coffeeTemperature = 85.0f;
     float hotLimitTemperature = 70.0f;
